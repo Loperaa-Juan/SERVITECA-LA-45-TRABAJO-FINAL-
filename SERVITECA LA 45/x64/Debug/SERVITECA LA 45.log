@@ -1,0 +1,4 @@
+﻿  SERVITECA LA 45.cpp
+C:\Users\Juan Jose\source\repos\SERVITECA LA 45\SERVITECA LA 45\SERVITECA LA 45.cpp(547,28): warning C4101: 'cod_mant': variable local sin referencia
+C:\Users\Juan Jose\source\repos\SERVITECA LA 45\SERVITECA LA 45\SERVITECA LA 45.cpp(547,11): warning C4101: 'mant': variable local sin referencia
+  SERVITECA LA 45.vcxproj -> C:\Users\Juan Jose\source\repos\SERVITECA LA 45\x64\Debug\SERVITECA LA 45.exe
